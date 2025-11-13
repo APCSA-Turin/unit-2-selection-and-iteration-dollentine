@@ -36,6 +36,8 @@ public class Runner {
      if (randomNum == 6){ 
         System.out.println ("Cannot predcit now"); 
      }
+     
+     scan.close(); 
    }
 
 }
