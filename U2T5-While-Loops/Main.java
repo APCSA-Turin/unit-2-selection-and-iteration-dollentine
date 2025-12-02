@@ -41,5 +41,7 @@ System.out.println(fun.isPrime(30));
 System.out.println(fun.isPrime(771));
 System.out.println(fun.isPrime(93243));
 
+
+
     }
 }
